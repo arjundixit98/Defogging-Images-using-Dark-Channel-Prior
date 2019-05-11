@@ -28,19 +28,6 @@ python haze_removal.py [your image path]
 ```
 
 
-## DEMO
-
-<figure class="half">
-    <img src="demo/hongkong.bmp">
-    <img src="demo/hongkong_rev.jpg">
-</figure>
-
-<figure class="half">
-    <img src="demo/canyon2.bmp">
-    <img src="demo/canyon2_rev.jpg">
-</figure>
-
-
 ## References
 
 - paper: Single Image Haze Removal using Dark Channel Prior
