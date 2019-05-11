@@ -36,7 +36,7 @@ python haze_removal.py [your image path]
  
  
 Fig(1): Overview of how Dehazing works using Dark Channel Prior 
-![alt text](https://raw.githubusercontent.com/arjundixit98/projectname/branch/path/to/img.png)
+![](images/1.jpeg)
  
 The proposed algorithm deals with the dehazing of images by using image degradation model and image restoration based algorithms. Firstly, we apply the Dark Channel Prior method on the image which has been taken as the input. The, apply the Fast Fourier Transform on it, which is an efficient algorithm to compute the discrete Fourier transform and is much less complicated. High pass and low pass filters are respectively used to extract high-frequency and low-frequency components from the image. Dark channel prior method is used for estimation of atmospheric light. Then, the transmission map is calculated using the spectral transform method. Then, finally the haze-free image is restored. 
  
