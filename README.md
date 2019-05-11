@@ -57,11 +57,12 @@ Once all the above procedures are executed on the Input Image, the output dehaze
 Snippet of Command Prompt on how to run the Python script by providing the Image Path
  
  
+## Conclusion 
  ![](images/4.jpg)
 
 Hazed Image is successfully transformed into Original Dehazed Image using Dark Channel Prior
 
-## Conclusion
+
 
 After execution of the Algorithm consisting of different procedure running one by one, the fog is removed from the input image using Dark Channel Prior technique after which the image is recovered so as to give us the dehazed image as the output. 
 This defogging algorithm is quite efficient and is much more optimized to handle variety of images captured during foggy conditions and guarantees to provide us the original image within no time.
